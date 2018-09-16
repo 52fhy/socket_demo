@@ -1,1 +1,8 @@
-Workerman/.git
+Workerman/.git/
+logs
+.buildpath
+.project
+.settings
+.idea
+.DS_Store
+
